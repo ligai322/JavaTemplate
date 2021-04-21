@@ -1,0 +1,3 @@
+[submodule "test/vectortile"]
+	path = test/vectortile
+	url = git@github.com:ligai322/vectortile.git
